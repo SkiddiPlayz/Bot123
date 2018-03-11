@@ -164,4 +164,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login(BOT_TOKEN)
+bot.login(NDIyMDkwODg5Njc5MjA4NDU4.DYaKMw.IyDtY-3tEJ1GInfcqiX4TgFaivk)
