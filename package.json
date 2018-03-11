@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "version": "",
+  "name": "index.js",
+  "version": "0.0.0",
   "dependencies": {
     "discord.js": "^11.3.2"
   }
